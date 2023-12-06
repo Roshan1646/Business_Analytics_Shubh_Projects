@@ -3,23 +3,23 @@ As a dedicated Business Analyst aspirant, I have completed the  WhatsApp Pay fea
 
 * Key Components of the WhatsApp Pay Project & Unilever Canteen Ordering System project:-
  
- 1)Stakeholder Management
+ 1) Stakeholder Management
  
- 2)Risk Identification and Analysis
+ 2) Risk Identification and Analysis
  
- 3)SWOT Analysis
+ 3) SWOT Analysis
  
- 4)Transition State Identification
+ 4) Transition State Identification
  
- 5)Process Mapping
+ 5) Process Mapping
  
- 6)Feature Documentation
+ 6) Feature Documentation
  
- 7)In-scope and Out-of-scope Items
+ 7) In-scope and Out-of-scope Items
  
- 8)Business Requirements
+ 8) Business Requirements
  
- Wireframing or Mock Screen with Balsamiq.
+ 9) Wireframing or Mock Screen with Balsamiq.
 
 ![image](https://github.com/theshubh07/Business_Analytics_Shubh_Projects/assets/138755009/0b48b2f4-3562-4829-ae3e-4e8efacf5042)
 
