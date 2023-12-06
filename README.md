@@ -20,3 +20,5 @@ As a dedicated Business Analyst aspirant, I have completed the  WhatsApp Pay fea
  Business Requirements
  
  Wireframing or Mock Screen with Balsamiq.
+
+![image](https://github.com/theshubh07/Business_Analytics_Shubh_Projects/assets/138755009/0b48b2f4-3562-4829-ae3e-4e8efacf5042)
